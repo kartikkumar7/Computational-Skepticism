@@ -1,6 +1,8 @@
 # Computational-Skepticism
 
-Making a model “​TrustWorthy​”. How to compute model interpretability for Linear Regression and Deep Learning using traditional statistical approach and automated machine learning.
+Making a model “​TrustWorthy​”
+
+## Abstract
 
 ## Problem statement
 
@@ -15,3 +17,4 @@ In this project we aim to build a system that can be used to transform an unassu
 Abhishek Gargha Maheshwarappa
 
 Kartik Kumar
+
